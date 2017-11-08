@@ -1,4 +1,4 @@
-FROM arhea/yarn:6
+FROM node:8.9-wheezy
 
 WORKDIR /usr/local/src
 
